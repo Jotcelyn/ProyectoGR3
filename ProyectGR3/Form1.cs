@@ -8,28 +8,33 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ProyectGR3
+namespace ProyectGR3;
+
+public partial class Form1 : Form
 {
-    public partial class Form1 : Form
+    public Form1()
     {
-        public Form1()
-        {
-            InitializeComponent();
-        }
+        InitializeComponent();
+    }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
+    private void label1_Click(object sender, EventArgs e)
+    {
 
-        }
+    }
 
-        private void label1_Click_1(object sender, EventArgs e)
-        {
+    private void label1_Click_1(object sender, EventArgs e)
+    {
 
-        }
+    }
 
-        private void label1_Click_2(object sender, EventArgs e)
-        {
+    private void label1_Click_2(object sender, EventArgs e)
+    {
 
-        }
     }
 }
+
+double prueba = 0b1;
+
+double resultado;
+resultado=prueba*5;
+        string Mensaje = "Prueba de modificacion repositorio remoto";
