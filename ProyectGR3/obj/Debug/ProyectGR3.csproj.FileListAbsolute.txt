@@ -1,0 +1,11 @@
+E:\Proyecto\ProyectGR3\bin\Debug\ProyectGR3.exe.config
+E:\Proyecto\ProyectGR3\bin\Debug\ProyectGR3.exe
+E:\Proyecto\ProyectGR3\bin\Debug\ProyectGR3.pdb
+E:\Proyecto\ProyectGR3\obj\Debug\ProyectGR3.csproj.AssemblyReference.cache
+E:\Proyecto\ProyectGR3\obj\Debug\ProyectGR3.csproj.SuggestedBindingRedirects.cache
+E:\Proyecto\ProyectGR3\obj\Debug\ProyectGR3.Properties.Resources.resources
+E:\Proyecto\ProyectGR3\obj\Debug\ProyectGR3.csproj.GenerateResource.cache
+E:\Proyecto\ProyectGR3\obj\Debug\ProyectGR3.csproj.CoreCompileInputs.cache
+E:\Proyecto\ProyectGR3\obj\Debug\ProyectGR3.exe
+E:\Proyecto\ProyectGR3\obj\Debug\ProyectGR3.pdb
+E:\Proyecto\ProyectGR3\obj\Debug\ProyectGR3.Form1.resources
